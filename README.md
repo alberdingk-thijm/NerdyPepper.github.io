@@ -1,16 +1,13 @@
 # NerdyPepper.github.io
-GitHub page for My Startpage
 
-Created Entirely using HTML and CSS and a bit of JS
+GitHub page for my startpage.
+
+Created entirely using HTML and CSS and a bit of JS.
 
 Not a single image is used, so as to speed up load times.
 
-Inspired by the Solarized Dark color scheme.
+Inspired by dkeg's [crayolo/urban](github.com/dkeg/crayolo#urban) color scheme.
 
-Link to Solarized Dark Startpage: https://nerdypepper.github.io/startpage.html
-
-Link to Gloom Startpage: https://nerdypepper.github.io/
+Link to urban Startpage: https://alberdingk-thijm.github.io/nerdypepper.github.io/startpage.html
 
 ![ScreenShots](Startpage.png)
-
-![SCreenshots](Gloom.png)
